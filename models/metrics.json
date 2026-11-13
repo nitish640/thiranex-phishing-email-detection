@@ -1,0 +1,23 @@
+{
+  "test_size": 100,
+  "accuracy": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "confusion_matrix": {
+    "labels": [
+      "Safe",
+      "Phishing"
+    ],
+    "matrix": [
+      [
+        50,
+        0
+      ],
+      [
+        0,
+        50
+      ]
+    ]
+  }
+}
